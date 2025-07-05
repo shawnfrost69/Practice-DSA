@@ -1,0 +1,14 @@
+/Users/heysky_69/Desktop/repos/C#/Practice/DSA/GeneralQuestionsVmWare/bin/Debug/net8.0/GeneralQuestionsVmWare
+/Users/heysky_69/Desktop/repos/C#/Practice/DSA/GeneralQuestionsVmWare/bin/Debug/net8.0/GeneralQuestionsVmWare.deps.json
+/Users/heysky_69/Desktop/repos/C#/Practice/DSA/GeneralQuestionsVmWare/bin/Debug/net8.0/GeneralQuestionsVmWare.runtimeconfig.json
+/Users/heysky_69/Desktop/repos/C#/Practice/DSA/GeneralQuestionsVmWare/bin/Debug/net8.0/GeneralQuestionsVmWare.dll
+/Users/heysky_69/Desktop/repos/C#/Practice/DSA/GeneralQuestionsVmWare/bin/Debug/net8.0/GeneralQuestionsVmWare.pdb
+/Users/heysky_69/Desktop/repos/C#/Practice/DSA/GeneralQuestionsVmWare/obj/Debug/net8.0/GeneralQuestionsVmWare.GeneratedMSBuildEditorConfig.editorconfig
+/Users/heysky_69/Desktop/repos/C#/Practice/DSA/GeneralQuestionsVmWare/obj/Debug/net8.0/GeneralQuestionsVmWare.AssemblyInfoInputs.cache
+/Users/heysky_69/Desktop/repos/C#/Practice/DSA/GeneralQuestionsVmWare/obj/Debug/net8.0/GeneralQuestionsVmWare.AssemblyInfo.cs
+/Users/heysky_69/Desktop/repos/C#/Practice/DSA/GeneralQuestionsVmWare/obj/Debug/net8.0/GeneralQuestionsVmWare.csproj.CoreCompileInputs.cache
+/Users/heysky_69/Desktop/repos/C#/Practice/DSA/GeneralQuestionsVmWare/obj/Debug/net8.0/GeneralQuestionsVmWare.dll
+/Users/heysky_69/Desktop/repos/C#/Practice/DSA/GeneralQuestionsVmWare/obj/Debug/net8.0/refint/GeneralQuestionsVmWare.dll
+/Users/heysky_69/Desktop/repos/C#/Practice/DSA/GeneralQuestionsVmWare/obj/Debug/net8.0/GeneralQuestionsVmWare.pdb
+/Users/heysky_69/Desktop/repos/C#/Practice/DSA/GeneralQuestionsVmWare/obj/Debug/net8.0/GeneralQuestionsVmWare.genruntimeconfig.cache
+/Users/heysky_69/Desktop/repos/C#/Practice/DSA/GeneralQuestionsVmWare/obj/Debug/net8.0/ref/GeneralQuestionsVmWare.dll

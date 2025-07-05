@@ -1,0 +1,14 @@
+/Users/heysky_69/Desktop/repos/C#/Practice/DSA/Greedy algorithm/bin/Debug/net8.0/Greedy algorithm
+/Users/heysky_69/Desktop/repos/C#/Practice/DSA/Greedy algorithm/bin/Debug/net8.0/Greedy algorithm.deps.json
+/Users/heysky_69/Desktop/repos/C#/Practice/DSA/Greedy algorithm/bin/Debug/net8.0/Greedy algorithm.runtimeconfig.json
+/Users/heysky_69/Desktop/repos/C#/Practice/DSA/Greedy algorithm/bin/Debug/net8.0/Greedy algorithm.dll
+/Users/heysky_69/Desktop/repos/C#/Practice/DSA/Greedy algorithm/bin/Debug/net8.0/Greedy algorithm.pdb
+/Users/heysky_69/Desktop/repos/C#/Practice/DSA/Greedy algorithm/obj/Debug/net8.0/Greedy algorithm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/heysky_69/Desktop/repos/C#/Practice/DSA/Greedy algorithm/obj/Debug/net8.0/Greedy algorithm.AssemblyInfoInputs.cache
+/Users/heysky_69/Desktop/repos/C#/Practice/DSA/Greedy algorithm/obj/Debug/net8.0/Greedy algorithm.AssemblyInfo.cs
+/Users/heysky_69/Desktop/repos/C#/Practice/DSA/Greedy algorithm/obj/Debug/net8.0/Greedy algorithm.csproj.CoreCompileInputs.cache
+/Users/heysky_69/Desktop/repos/C#/Practice/DSA/Greedy algorithm/obj/Debug/net8.0/Greedy algorithm.dll
+/Users/heysky_69/Desktop/repos/C#/Practice/DSA/Greedy algorithm/obj/Debug/net8.0/refint/Greedy algorithm.dll
+/Users/heysky_69/Desktop/repos/C#/Practice/DSA/Greedy algorithm/obj/Debug/net8.0/Greedy algorithm.pdb
+/Users/heysky_69/Desktop/repos/C#/Practice/DSA/Greedy algorithm/obj/Debug/net8.0/Greedy algorithm.genruntimeconfig.cache
+/Users/heysky_69/Desktop/repos/C#/Practice/DSA/Greedy algorithm/obj/Debug/net8.0/ref/Greedy algorithm.dll

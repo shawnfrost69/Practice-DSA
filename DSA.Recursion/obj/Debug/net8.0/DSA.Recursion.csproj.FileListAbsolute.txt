@@ -1,0 +1,14 @@
+/Users/heysky_69/Desktop/repos/C#/Practice/DSA/DSA.Recursion/bin/Debug/net8.0/DSA.Recursion
+/Users/heysky_69/Desktop/repos/C#/Practice/DSA/DSA.Recursion/bin/Debug/net8.0/DSA.Recursion.deps.json
+/Users/heysky_69/Desktop/repos/C#/Practice/DSA/DSA.Recursion/bin/Debug/net8.0/DSA.Recursion.runtimeconfig.json
+/Users/heysky_69/Desktop/repos/C#/Practice/DSA/DSA.Recursion/bin/Debug/net8.0/DSA.Recursion.dll
+/Users/heysky_69/Desktop/repos/C#/Practice/DSA/DSA.Recursion/bin/Debug/net8.0/DSA.Recursion.pdb
+/Users/heysky_69/Desktop/repos/C#/Practice/DSA/DSA.Recursion/obj/Debug/net8.0/DSA.Recursion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/heysky_69/Desktop/repos/C#/Practice/DSA/DSA.Recursion/obj/Debug/net8.0/DSA.Recursion.AssemblyInfoInputs.cache
+/Users/heysky_69/Desktop/repos/C#/Practice/DSA/DSA.Recursion/obj/Debug/net8.0/DSA.Recursion.AssemblyInfo.cs
+/Users/heysky_69/Desktop/repos/C#/Practice/DSA/DSA.Recursion/obj/Debug/net8.0/DSA.Recursion.csproj.CoreCompileInputs.cache
+/Users/heysky_69/Desktop/repos/C#/Practice/DSA/DSA.Recursion/obj/Debug/net8.0/DSA.Recursion.dll
+/Users/heysky_69/Desktop/repos/C#/Practice/DSA/DSA.Recursion/obj/Debug/net8.0/refint/DSA.Recursion.dll
+/Users/heysky_69/Desktop/repos/C#/Practice/DSA/DSA.Recursion/obj/Debug/net8.0/DSA.Recursion.pdb
+/Users/heysky_69/Desktop/repos/C#/Practice/DSA/DSA.Recursion/obj/Debug/net8.0/DSA.Recursion.genruntimeconfig.cache
+/Users/heysky_69/Desktop/repos/C#/Practice/DSA/DSA.Recursion/obj/Debug/net8.0/ref/DSA.Recursion.dll

@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSA.Recursion", "DSA.Recursion\DSA.Recursion.csproj", "{49137D36-0EAB-4221-97BE-CBC488E9C620}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Greedy algorithm", "Greedy algorithm\Greedy algorithm.csproj", "{54D924DA-3395-40D5-B8DD-242748EBDDF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maths", "Maths\Maths.csproj", "{AF683E3C-0F5E-478D-A096-F19397DA8FBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneralQuestionsVmWare", "GeneralQuestionsVmWare\GeneralQuestionsVmWare.csproj", "{D59C179A-92FA-42EC-9E8E-5BF449183EC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack_and_Queue", "Stack_and_Queue\Stack_and_Queue.csproj", "{7E791770-30F5-4869-82BA-CC882DD52BD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49137D36-0EAB-4221-97BE-CBC488E9C620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49137D36-0EAB-4221-97BE-CBC488E9C620}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49137D36-0EAB-4221-97BE-CBC488E9C620}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49137D36-0EAB-4221-97BE-CBC488E9C620}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54D924DA-3395-40D5-B8DD-242748EBDDF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54D924DA-3395-40D5-B8DD-242748EBDDF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54D924DA-3395-40D5-B8DD-242748EBDDF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54D924DA-3395-40D5-B8DD-242748EBDDF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF683E3C-0F5E-478D-A096-F19397DA8FBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF683E3C-0F5E-478D-A096-F19397DA8FBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF683E3C-0F5E-478D-A096-F19397DA8FBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF683E3C-0F5E-478D-A096-F19397DA8FBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D59C179A-92FA-42EC-9E8E-5BF449183EC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D59C179A-92FA-42EC-9E8E-5BF449183EC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D59C179A-92FA-42EC-9E8E-5BF449183EC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D59C179A-92FA-42EC-9E8E-5BF449183EC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E791770-30F5-4869-82BA-CC882DD52BD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E791770-30F5-4869-82BA-CC882DD52BD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E791770-30F5-4869-82BA-CC882DD52BD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E791770-30F5-4869-82BA-CC882DD52BD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+EndGlobal

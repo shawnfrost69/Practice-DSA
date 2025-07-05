@@ -1,0 +1,14 @@
+/Users/heysky_69/Desktop/repos/C#/Practice/DSA/Stack_and_Queue/bin/Debug/net8.0/Stack_and_Queue
+/Users/heysky_69/Desktop/repos/C#/Practice/DSA/Stack_and_Queue/bin/Debug/net8.0/Stack_and_Queue.deps.json
+/Users/heysky_69/Desktop/repos/C#/Practice/DSA/Stack_and_Queue/bin/Debug/net8.0/Stack_and_Queue.runtimeconfig.json
+/Users/heysky_69/Desktop/repos/C#/Practice/DSA/Stack_and_Queue/bin/Debug/net8.0/Stack_and_Queue.dll
+/Users/heysky_69/Desktop/repos/C#/Practice/DSA/Stack_and_Queue/bin/Debug/net8.0/Stack_and_Queue.pdb
+/Users/heysky_69/Desktop/repos/C#/Practice/DSA/Stack_and_Queue/obj/Debug/net8.0/Stack_and_Queue.GeneratedMSBuildEditorConfig.editorconfig
+/Users/heysky_69/Desktop/repos/C#/Practice/DSA/Stack_and_Queue/obj/Debug/net8.0/Stack_and_Queue.AssemblyInfoInputs.cache
+/Users/heysky_69/Desktop/repos/C#/Practice/DSA/Stack_and_Queue/obj/Debug/net8.0/Stack_and_Queue.AssemblyInfo.cs
+/Users/heysky_69/Desktop/repos/C#/Practice/DSA/Stack_and_Queue/obj/Debug/net8.0/Stack_and_Queue.csproj.CoreCompileInputs.cache
+/Users/heysky_69/Desktop/repos/C#/Practice/DSA/Stack_and_Queue/obj/Debug/net8.0/Stack_and_Queue.dll
+/Users/heysky_69/Desktop/repos/C#/Practice/DSA/Stack_and_Queue/obj/Debug/net8.0/refint/Stack_and_Queue.dll
+/Users/heysky_69/Desktop/repos/C#/Practice/DSA/Stack_and_Queue/obj/Debug/net8.0/Stack_and_Queue.pdb
+/Users/heysky_69/Desktop/repos/C#/Practice/DSA/Stack_and_Queue/obj/Debug/net8.0/Stack_and_Queue.genruntimeconfig.cache
+/Users/heysky_69/Desktop/repos/C#/Practice/DSA/Stack_and_Queue/obj/Debug/net8.0/ref/Stack_and_Queue.dll
