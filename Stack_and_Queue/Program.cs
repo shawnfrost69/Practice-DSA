@@ -4,6 +4,17 @@ class Program
 {
     static void Main(string[] args)
     {
+        Queue_UsingArray queueUsingArray = new(6);
+        queueUsingArray.Enqueue(2);
+        queueUsingArray.Enqueue(22);
+        queueUsingArray.Enqueue(12);
+        queueUsingArray.Enqueue(1);
+        queueUsingArray.Enqueue(8);
+        queueUsingArray.Enqueue(5);
+        queueUsingArray.PrintQueue();
+        queueUsingArray.Dequeue();
+        queueUsingArray.PrintQueue();
+
         Stack_UsingOneQueue stack = new Stack_UsingOneQueue();
 
         stack.Push(10);

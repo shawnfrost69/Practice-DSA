@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GeneralQuestionsVmWare")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf1f2a78f54465c4b84506c66cdd30bb7107cc21")]
 [assembly: System.Reflection.AssemblyProductAttribute("GeneralQuestionsVmWare")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GeneralQuestionsVmWare")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
