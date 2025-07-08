@@ -12,3 +12,4 @@
 /Users/heysky_69/Desktop/repos/C#/Practice/DSA/Maths/obj/Debug/net8.0/Maths.pdb
 /Users/heysky_69/Desktop/repos/C#/Practice/DSA/Maths/obj/Debug/net8.0/Maths.genruntimeconfig.cache
 /Users/heysky_69/Desktop/repos/C#/Practice/DSA/Maths/obj/Debug/net8.0/ref/Maths.dll
+/Users/heysky_69/Desktop/repos/C#/Practice/DSA/Maths/obj/Debug/net8.0/Maths.sourcelink.json

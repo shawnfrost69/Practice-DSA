@@ -46,7 +46,7 @@ public class Queue_UsingArray
 
     public void PrintQueue()
     {
-        Console.WriteLine("Queue (Front to Rear):");
+        Console.WriteLine("Queue using Array:");
         for (int i = 0; i < count; i++)
         {
             int idx = (front + i) % capacity;

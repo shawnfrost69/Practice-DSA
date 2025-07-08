@@ -4,6 +4,15 @@ class Program
 {
     static void Main(string[] args)
     {
+        Queue_UsingLinkedList queueLL = new();
+        queueLL.Enqueue(4);
+        queueLL.Enqueue(10);
+        queueLL.PrintQueue();
+        queueLL.Dequeue();
+        queueLL.PrintQueue();
+
+        Console.WriteLine("-----------------------------------");
+        
         Queue_UsingArray queueUsingArray = new(6);
         queueUsingArray.Enqueue(2);
         queueUsingArray.Enqueue(22);
@@ -14,6 +23,8 @@ class Program
         queueUsingArray.PrintQueue();
         queueUsingArray.Dequeue();
         queueUsingArray.PrintQueue();
+        
+        Console.WriteLine("-----------------------------------");
 
         Stack_UsingOneQueue stack = new Stack_UsingOneQueue();
 

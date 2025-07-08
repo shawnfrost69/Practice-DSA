@@ -12,3 +12,4 @@
 /Users/heysky_69/Desktop/repos/C#/Practice/DSA/GeneralQuestionsVmWare/obj/Debug/net8.0/GeneralQuestionsVmWare.pdb
 /Users/heysky_69/Desktop/repos/C#/Practice/DSA/GeneralQuestionsVmWare/obj/Debug/net8.0/GeneralQuestionsVmWare.genruntimeconfig.cache
 /Users/heysky_69/Desktop/repos/C#/Practice/DSA/GeneralQuestionsVmWare/obj/Debug/net8.0/ref/GeneralQuestionsVmWare.dll
+/Users/heysky_69/Desktop/repos/C#/Practice/DSA/GeneralQuestionsVmWare/obj/Debug/net8.0/GeneralQuestionsVmWare.sourcelink.json
