@@ -4,6 +4,14 @@ class Program
 {
     static void Main(string[] args)
     {
+        Queue_Using2Stacks queueUsing2Stacks = new();
+        queueUsing2Stacks.Enqueue(4);
+        queueUsing2Stacks.Enqueue(3);
+        queueUsing2Stacks.PrintQueue();
+        queueUsing2Stacks.Dequeue();
+        queueUsing2Stacks.PrintQueue();
+        
+        Console.WriteLine("-----------------------------------");
         Queue_UsingLinkedList queueLL = new();
         queueLL.Enqueue(4);
         queueLL.Enqueue(10);
