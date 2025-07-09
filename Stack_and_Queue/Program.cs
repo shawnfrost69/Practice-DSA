@@ -1,9 +1,15 @@
-﻿namespace Stack_and_Queue;
+﻿using Stack_and_Queue.ExpressionConversions;
+
+namespace Stack_and_Queue;
 
 class Program
 {
     static void Main(string[] args)
     {
+        var converter = new Infix_To_Postfix();
+        string infix = "A+(B*C)";
+        Console.WriteLine($"Infix to Postfix: {converter.InfixToPostfix(infix)}");
+        
         Queue_Using2Stacks queueUsing2Stacks = new();
         queueUsing2Stacks.Enqueue(4);
         queueUsing2Stacks.Enqueue(3);
