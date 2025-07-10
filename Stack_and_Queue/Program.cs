@@ -6,9 +6,13 @@ class Program
 {
     static void Main(string[] args)
     {
+        var infixToPrefix = new Infix_To_Prefix();
+        string s1 = "A+(B + C)";
+        Console.WriteLine($"Infix to Postfix: {infixToPrefix.InfixToPrefix(s1)}");
+
         var converter = new Infix_To_Postfix();
-        string infix = "A+(B*C)";
-        Console.WriteLine($"Infix to Postfix: {converter.InfixToPostfix(infix)}");
+        string s2 = "A+(B*C)";
+        Console.WriteLine($"Infix to Postfix: {converter.InfixToPostfix(s2)}");
         
         Queue_Using2Stacks queueUsing2Stacks = new();
         queueUsing2Stacks.Enqueue(4);
