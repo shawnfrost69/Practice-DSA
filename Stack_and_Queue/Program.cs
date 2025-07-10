@@ -6,6 +6,10 @@ class Program
 {
     static void Main(string[] args)
     {
+        var postfixToprefix = new Postfix_To_Prefix();
+        string s5 = "A B C * +";
+        Console.WriteLine($"Prefix to Postfix: {postfixToprefix.PostfixToPrefix(s5)}");
+        
         var prefixToPostfix = new Prefix_To_Postfix();
         string s4 = "+ A * B C";
         Console.WriteLine($"Prefix to Postfix: {prefixToPostfix.PrefixToPostfix(s4)}");
